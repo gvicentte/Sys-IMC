@@ -1,0 +1,14 @@
+=================================================
+>>> REQUISITO: Funcionários com idade superior a 30 anos: <<<
+Funcionario{ nome='Alice', idade=35, salario=3500.0}
+Funcionario{ nome='Carlos', idade=41, salario=5200.5}
+Funcionario{ nome='Eduardo', idade=32, salario=4100.25}
+
+=================================================
+>>> REQUISITO: Lista de nomes dos funcionários: <<<
+[Alice, Bruno, Carlos, Diana, Eduardo]
+
+=================================================
+>>> REQUISITO: Soma total dos salários: <<<
+R$ 17550,75
+=================================================
